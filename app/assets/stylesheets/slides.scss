@@ -5,8 +5,8 @@ these make the slideshow work
 #slides{
     position: relative;
     height: 400px;
-    padding: 0px;
-    margin: 0px;
+    padding: 0;
+    margin: 40px 0 20px;
     list-style-type: none;
 }
 
@@ -40,7 +40,7 @@ just for appearance; change whatever you want
 */
 
 #slide-controls {
-    margin-top: 20px;
+    margin: 20px 0 400px;
     width: 100%;
     text-align: center;
 

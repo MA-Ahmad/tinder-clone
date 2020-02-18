@@ -10,7 +10,8 @@ require("@rails/activestorage").start()
 require('jquery')
 require('bootstrap')
 require('@fortawesome/fontawesome-free/js/all')
-require('../includes/slides')
+require('../includes/browse')
+
 // require("bootstrap/dist/js/bootstrap")
 
 
